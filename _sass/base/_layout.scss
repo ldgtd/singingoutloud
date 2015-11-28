@@ -1,0 +1,57 @@
+/**
+ * Base
+ * LAYOUT
+ */
+
+html {
+  font-size: $font-size-default;
+  font-family: $font-family-default;
+}
+
+.wrapper {
+  max-width: 1024px;
+
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: $font-size-huge;
+
+  text-transform: uppercase;
+}
+
+h3 a {
+  text-decoration: none;
+}
+
+a {
+  color: $alt-color-darker;
+}
+
+article {
+  position: relative;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+a {
+  color: $brand-color;
+}
+
+.flag,.flag--border {
+  height: 5px;
+}
+
+.flag--green {
+  background-color: $green;
+}
+
+.flag--yellow {
+  background-color: $yellow;
+}
+
+.flag--red {
+  background-color: $brand-color;
+}

@@ -1,0 +1,8 @@
+title: "title"
+description: "Desc"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules]

@@ -1,0 +1,58 @@
+{% assign t = site.data.translations[page.lang] %}
+
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ "/assets/main.css" | prepend: site.baseurl }}">
+  </head>
+  <body class="wrapper grid mrgv++">
+    <div class="grid__item w-1/4">
+      <div class="flag grid mrgb">
+        <span class="flag--border flag--green grid__item w-2/3"></span>
+        <span class="flag--border flag--yellow grid__item w-1/3"></span>
+      </div>
+
+      <header>
+        <h1>Singing Out <span class="bold">Loud</span></h1>
+        <ul class="list">
+          <li><a href="#music">Musique</a></li>
+          <li><a href="#project">Projet</a></li>
+          <li><a href="#articles">Articles</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="#project-actors">Acteurs du projet</a></li>
+        </ul>
+      </header>
+
+      <div class="mrgt">
+        <ul class="list">
+        {% for p in site.pages %}
+          {% if p.lang %}
+            {% if page.lang == p.lang %}
+              {% assign active = "active" %}
+            {% else %}
+              {% assign active = "" %}
+            {% endif %}
+              <li class="locale_{{ p.lang }}"><a href="{{ p.url | prepend: site.baseurl }}" class="{{ active }}">{{ p.lang }}</a></li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </div>
+
+      <div class="flag grid mrgt">
+        <span class="flag--border flag--yellow grid__item w-1/3"></span>
+        <span class="flag--border flag--red grid__item w-2/3"></span>
+      </div>
+    </div>
+
+    <div class="grid__item w-3/4">
+      {{ content }}
+    </div>
+
+  </body>
+
+</html>
