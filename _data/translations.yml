@@ -7,8 +7,6 @@ en:
     <p class="italic">“Political leaders, development practitioners, private sector and civil society actors,
     each of us bears a part of shared responsibility and each one can contribute to the
     building of a fairer world.”</p>
-    <img src="/assets/images/doctor.jpg" class="pull-right mrgr++ mrgb++ radius" alt="Dr. Denis Mukwege">
-    <p class="doctor">Dr. Denis Mukwege</p>
   music:
     title: Music
     intro: |
@@ -79,7 +77,7 @@ fr:
     rôle que chacun peut jouer, aussi minime soit-il.</p>
     <p class="italic">“Dirigeants politiques, praticiens du développement, acteurs du secteur privé et de
     la société civile, chacun de nous porte une part de responsabilité partagée et chacun
-    de nous peut contribuer à l’édification d’un monde plus juste.”</p> <p class="pull-right">Dr. Denis Mukwege</p>
+    de nous peut contribuer à l’édification d’un monde plus juste.”</p>
   music:
     title: Musique
     intro: |
