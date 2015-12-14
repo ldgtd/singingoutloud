@@ -1,7 +1,8 @@
-<article id="articles" class="articles mrgb++">
+<section id="articles" class="articles mrgb++">
   <h1>Articles</h1>
+  <p>{{ t.articles.publish }}</p>
 
-  <div class="grid">
+  <div class="grid" style="display: none">
 
     {% for post in site.posts %}
       <a href="{{ post.url }}">
@@ -16,4 +17,4 @@
 
   </div>
 
-</article>
+</section>

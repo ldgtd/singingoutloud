@@ -2688,17 +2688,26 @@ article {
 .bold {
   font-weight: bold; }
 
+.italic {
+  font-style: italic; }
+
 a {
   color: #B94A34; }
+
+.radius {
+  width: 150px;
+  border-radius: 75px; }
+
+.doctor {
+  position: absolute;
+  right: 40px;
+  bottom: 0; }
 
 .flag, .flag--border {
   height: 5px; }
 
-.flag--green {
-  background-color: #039743; }
-
-.flag--yellow {
-  background-color: #F3D13C; }
+.flag--blue {
+  background-color: #007BFF; }
 
 .flag--red {
   background-color: #B94A34; }
@@ -2711,6 +2720,9 @@ a {
  * Base
  * INTRO IMAGE
  */
+.intro-image_container article p {
+  font-size: 1.5rem; }
+
 .intro-image {
   height: 500px;
   margin: -20px auto 40px auto; }
@@ -2735,3 +2747,12 @@ button {
  * Base
  * ARTICLES
  */
+/**
+ * Base
+ * MUSIC
+ */
+.collapse-container {
+  width: 320px;
+  margin: 0 auto; }
+  .collapse-container p {
+    text-align: center; }

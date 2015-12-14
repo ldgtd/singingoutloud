@@ -8,13 +8,13 @@ $baseUrl: "{{ site.baseurl }}";
 
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,500,700,300,800);
 
-@import
-"settings/_kanbasu",
-"kanbasu";
+@import "settings/_kanbasu",
+        "kanbasu";
 
 @import "base/_layout";
 
 @import "sections/_header",
-"sections/_intro-image",
-"sections/_support",
-"sections/_articles";
+        "sections/_intro-image",
+        "sections/_support",
+        "sections/_articles",
+        "sections/_music";

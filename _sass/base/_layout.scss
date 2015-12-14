@@ -36,20 +36,31 @@ article {
   font-weight: bold;
 }
 
+.italic {
+  font-style: italic;
+}
+
 a {
   color: $brand-color;
 }
 
-.flag,.flag--border {
+.radius {
+  width: 150px;
+  border-radius: 75px;
+}
+
+.doctor {
+  position: absolute;
+  right: 40px;
+  bottom: 0;
+}
+
+.flag, .flag--border {
   height: 5px;
 }
 
-.flag--green {
-  background-color: $green;
-}
-
-.flag--yellow {
-  background-color: $yellow;
+.flag--blue {
+  background-color: $blue;
 }
 
 .flag--red {

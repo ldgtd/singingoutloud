@@ -3,6 +3,12 @@
  * INTRO IMAGE
  */
 
+.intro-image_container {
+	article p  {
+		font-size: $font-size-large;
+	}
+}
+
 .intro-image {
 	height: 500px;
 

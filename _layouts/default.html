@@ -9,22 +9,25 @@
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="stylesheet" href="{{ "/assets/main.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/vendor/stylesheets/bootstrap-collapse.css" | prepend: site.baseurl }}">
+    <script type="text/javascript" src="{{ "/assets/vendor/javascripts/jquery.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/assets/vendor/javascripts/bootstrap-collapse.js" | prepend: site.baseurl }}"></script>
   </head>
   <body class="wrapper grid mrgv++">
     <div class="grid__item w-1/4">
       <div class="flag grid mrgb">
-        <span class="flag--border flag--green grid__item w-2/3"></span>
-        <span class="flag--border flag--yellow grid__item w-1/3"></span>
+        <span class="flag--border flag--blue grid__item w-2/3"></span>
+        <span class="flag--border flag--red grid__item w-1/3"></span>
       </div>
 
       <header>
         <h1>Singing Out <span class="bold">Loud</span></h1>
         <ul class="list">
-          <li><a href="#music">Musique</a></li>
-          <li><a href="#project">Projet</a></li>
+          <li><a href="#music">{{ t.music.title }}</a></li>
+          <li><a href="#project">{{ t.projet.title }}</a></li>
           <li><a href="#articles">Articles</a></li>
-          <li><a href="#contact">Contact</a></li>
-          <li><a href="#project-actors">Acteurs du projet</a></li>
+          <li><a href="#contact">{{ t.contact.title }}</a></li>
+          <li><a href="#project-actors">{{ t.actors.title }}</a></li>
         </ul>
       </header>
 
@@ -44,8 +47,8 @@
       </div>
 
       <div class="flag grid mrgt">
-        <span class="flag--border flag--yellow grid__item w-1/3"></span>
-        <span class="flag--border flag--red grid__item w-2/3"></span>
+        <span class="flag--border flag--red grid__item w-1/3"></span>
+        <span class="flag--border flag--blue grid__item w-2/3"></span>
       </div>
     </div>
 

@@ -1,2 +1,144 @@
-en: en
-fr: fr
+en:
+  intro-images: |
+    <p><span class="italic">Singing Out <span class="bold">Loud</span></span> is an association that aims, through music, at raising not only funds
+    for a particular cause, but also awareness among listeners about issues that receive
+    but poor media attention, by urging to reflect on the role that each and everyone can
+    play, as minor as it may be. </p>
+    <p class="italic">“Political leaders, development practitioners, private sector and civil society actors,
+    each of us bears a part of shared responsibility and each one can contribute to the
+    building of a fairer world.”</p>
+    <img src="/assets/images/doctor.jpg" class="pull-right mrgr++ mrgb++ radius" alt="Dr. Denis Mukwege">
+    <p class="doctor">Dr. Denis Mukwege</p>
+  music:
+    title: Music
+    intro: |
+      By purchasing these tracks at the price of your preference, you make a donation to
+      the Dr. Mukwege’s Panzi Hospital that provides free care and surgery to women
+      victims of rape, notably in the context of the conflict that has been ongoing in Eastern
+      Congo for more than twenty years. These donations are transferred to the Hospital
+      by the <a href="#notabene-1">Singing Out <span class="bold">Loud</span> association *</a>. In addition to the purchase of the tracks, if you
+      wish to make a more significant donation and keep yourself updated with the
+      Hospital’s activities, we recommend you to visit directly <a href="http://www.panzihospital.org/" target="_blank">the Panzi Hospital website</a>.
+    lyrics: Lyrics
+  projet:
+    title: Project
+    description: |
+      <p>The first Singing Out Loud‘s project consists in an information campaign and in a
+      fundraising for the Panzi Hospital (DRC). The aim is, on the one hand, to speak
+      about a <span class="bold">conflict that gets but little media attention</span> and that has been devastating
+      Eastern DRC for more than twenty years – articles written to that end are available
+      on this website. The first victims of this conflict are the civilians, women in particular
+      on whom <span class="bold">rape is used as a war weapon.</span>  On the other hand, the aim is, by selling
+      the song “A Prayer To You”, to raise funds for the Panzi Hospital <span class="bold">of Dr. Denis
+      Mukwege</span>, Congolese gynaecologist and activist, also known as “the man who
+      repairs women”.</p>
+
+      <p>These conflicts, of which the causes are numerous and complex, are financed and
+      fed by, among other things, <span class="bold">the mining of precious minerals</span> essential to the
+      production of mobile phones and other electronic devices. At our modest level,
+      we can act by supporting financially Dr. Mukwege’s struggle, but above all by
+      <span class="bold">behaving more as citizens than as consumers</span> by questioning our role, role which
+      should not be eluded by the <span class="bold">supply chain opacity, the hallmark of neoliberal
+      globalisation.</span></p>
+  articles:
+    publish: Articles will be soon available
+  contact:
+    title: Contact
+    association: Singing Out Loud Association, Geneva, Switzerland
+    or: or
+  actors:
+    title: Project actors
+    musicians: Musicians
+    instrument-1: backings vocals & trombone
+    instrument-2: saxophone
+    instrument-3: drums
+    instrument-4: lead guitar
+    instrument-5: keyboards, percussions and arrangements
+    instrument-6: rhythm guitar
+    instrument-7: backings vocals & trumpet
+    instrument-8: The I-Twins – composition, arrangement, vocals and production
+    record: Recording studio
+    record-studio: <a href="http://www.precisemastering.com/" target="_blank">Bridge Studio</a>, Genève. Sound recording by Mathias Liengme.
+    mixing: Song mixing
+    mixing-studio: Roberto Sánchez, <a href="https://www.facebook.com/aloneproductions/timeline" target="_blank">A-lone Ark studio</a>, Spain, sound and musician, famous in the roots reggae world.
+    mastering: Song mastering
+    mastering-man: Sam John, <a href="http://www.precisemastering.com" target="_blank">Precise Mastering</a>, Scotland
+    picture: Illustration
+    picture-man: <a href="http://exem.ch/" target="_blank">Exem</a>, famous illustrator in Switzerland since the 80s, among things for his committed illustrations
+  notabene:
+    title: Notabene
+    notabene-1: |
+      * 15% of the amount transferred for the purchase of the song are debited by
+      Bandcamp (the company hosting the songs) for the use of their services. The 75%
+      received by the association are fully transferred to the Panzi Hospital.
+fr:
+  intro-images: |
+    <p><span class="italic">Singing Out <span class="bold">Loud</span> est une association qui vise, par le biais de la musique, non
+    seulement à récolter des fonds pour des causes ciblées, mais aussi à sensibiliser les
+    auditeurs à des problématiques peu médiatisées, en invitant à la réflexion quant au
+    rôle que chacun peut jouer, aussi minime soit-il.</p>
+    <p class="italic">“Dirigeants politiques, praticiens du développement, acteurs du secteur privé et de
+    la société civile, chacun de nous porte une part de responsabilité partagée et chacun
+    de nous peut contribuer à l’édification d’un monde plus juste.”</p> <p class="pull-right">Dr. Denis Mukwege</p>
+  music:
+    title: Musique
+    intro: |
+      En achetant ces morceaux à prix libre, vous faites un don pour l’Hôpital Panzi du Dr
+      Mukwege qui fournit des soins gratuits aux femmes victimes de viols, notamment
+      dans le cadre du conflit se déroulant à l’Est du Congo depuis plus de vingt ans. Ces
+      dons sont transmis à l’Hôpital par l’association <a href="#notabene-1">Singing Out <span class="bold">Loud</span>*</a>. En plus de l’achat
+      de la chanson, si vous souhaitez faire un don plus conséquent et vous tenir au
+      courant des activités de l’Hôpital, nous vous recommandons de vous rendre
+      directement sur le site <a href="http://www.panzihospital.org/" target="_blank">the Panzi Hospital website</a>.
+    lyrics: Parole
+  projet:
+    title: Projet
+    description: |
+      <p>Le premier projet de Singing out Loud consiste en une campagne d’information et en
+      une recherche de fonds en faveur de l’Hôpital Panzi (RDC). Il s’agit donc d’une part,
+      de faire parler du <span class="bold">conflit trop peu médiatisé</span> qui ravage <span class="bold">l’Est de la RDC</span> depuis plus
+      de vingt ans – des articles écrits dans ce but sont disponibles sur ce site. Les
+      premières victimes de ce conflit sont les civils, en particulier les femmes sur qui le
+      <span class="bold">viol est utilisé comme arme de guerre.</span> D’autre part, il s’agit, avec la vente de la
+      chanson « A Prayer To You », de récolter des fonds destinés à <span class="bold">l’Hôpital Panzi du
+      Dr Denis Mukwege</span>, gynécologue et activiste congolais souvent appelé « l’homme
+      qui répare les femmes ».</p>
+
+      <p>Ces conflits aux causes nombreuses et complexes sont financés et alimentés entre
+      autres par <span class="bold">l’extraction de précieux minerais</span> indispensables à la fabrication de nos
+      <span class="bold">téléphones portables</span> et autres appareils électroniques. A notre modeste niveau,
+      nous pouvons agir en soutenant financièrement le combat du Dr Mukwege, mais
+      surtout en se comportant <span class="bold">davantage en citoyens qu’en consommateurs</span> en
+      s’interrogeant sur notre rôle, rôle qui ne devrait pas être éludé par <span class="bold">l’opacité de la
+      chaîne de production caractéristique de mondialisation néolibérale.</span></p>
+  articles:
+    publish: Les articles seront bientôt disponibles.
+  contact:
+    title: Contact
+    association: Singing Out Loud Association, Genève, Suisse
+    or: ou
+  actors:
+    title: Project actors
+    musicians: Musicians
+    instrument-1: chœurs & trombone
+    instrument-2: saxophone
+    instrument-3: batterie
+    instrument-4: guitare soliste
+    instrument-5: piano, percussions et arrangements
+    instrument-6: guitare rhythmique
+    instrument-7: choeurs & trompette
+    instrument-8: The I-Twins – composition, arrangement, chant and production
+    record: Recording studio
+    record-studio: <a href="http://www.precisemastering.com/" target="_blank">Bridge Studio</a>, Genève. Sound recording par Mathias Liengme.
+    mixing: Song mixing
+    mixing-studio: Roberto Sánchez, <a href="https://www.facebook.com/aloneproductions/timeline" target="_blank">A-lone Ark studio</a>, producteur et musicien, célèbre dans le monde du reggae roots.
+    mastering: Song mastering
+    mastering-man: Sam John, <a href="http://www.precisemastering.com" target="_blank">Precise Mastering</a>, Ecosse
+    picture: Illustration
+    picture-man: <a href="http://exem.ch/" target="_blank">Exem</a>, Exem, dessinateur connu en Suisse romande depuis les années entre autres pour ses illustrations engagées.
+  notabene:
+    title: Notabene
+    notabene-1: |
+      * 15% de la somme versée pour l’achat de la chanson sont prélevés par Bandcamp
+      (la société hébergeant les morceaux) pour l’utilisation de leurs services. Les 75%
+      reçus par l’association sont intégralement reversés à l’Hôpital Panzi.
