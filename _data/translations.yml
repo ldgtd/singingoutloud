@@ -47,6 +47,8 @@ en:
   actors:
     title: Project actors
     musicians: Musicians
+    thanks: |
+      This project would not have been achievable without the voluntary participation of many actors. The quality of their work is equal to their generosity. We thank them from the bottom of our hearts
     instrument-1: backings vocals & trombone
     instrument-2: saxophone
     instrument-3: drums
@@ -71,7 +73,7 @@ en:
       received by the association are fully transferred to the Panzi Hospital.
 fr:
   intro-images: |
-    <p><span class="italic">Singing Out <span class="bold">Loud</span> est une association qui vise, par le biais de la musique, non
+    <p><span class="italic">Singing Out <span class="bold">Loud</span></span> est une association qui vise, par le biais de la musique, non
     seulement à récolter des fonds pour des causes ciblées, mais aussi à sensibiliser les
     auditeurs à des problématiques peu médiatisées, en invitant à la réflexion quant au
     rôle que chacun peut jouer, aussi minime soit-il.</p>
@@ -88,7 +90,7 @@ fr:
       de la chanson, si vous souhaitez faire un don plus conséquent et vous tenir au
       courant des activités de l’Hôpital, nous vous recommandons de vous rendre
       directement sur le site <a href="http://www.panzihospital.org/" target="_blank">the Panzi Hospital website</a>.
-    lyrics: Parole
+    lyrics: Paroles
   projet:
     title: Projet
     description: |
@@ -116,8 +118,10 @@ fr:
     association: Singing Out Loud Association, Genève, Suisse
     or: ou
   actors:
-    title: Project actors
-    musicians: Musicians
+    title: Acteurs du projets
+    thanks: |
+      Ce projet n’aurait été possible sans la participation bénévole de nombreux acteurs. La qualité de leur travail est à la hauteur de leur générosité. Nous les remercions du fond du cœur.
+    musicians: Musiciens
     instrument-1: chœurs & trombone
     instrument-2: saxophone
     instrument-3: batterie
@@ -126,11 +130,11 @@ fr:
     instrument-6: guitare rhythmique
     instrument-7: choeurs & trompette
     instrument-8: The I-Twins – composition, arrangement, chant and production
-    record: Recording studio
+    record: Studio d'enregistrement
     record-studio: <a href="http://www.precisemastering.com/" target="_blank">Bridge Studio</a>, Genève. Sound recording par Mathias Liengme.
-    mixing: Song mixing
+    mixing: Mix du son
     mixing-studio: Roberto Sánchez, <a href="https://www.facebook.com/aloneproductions/timeline" target="_blank">A-lone Ark studio</a>, producteur et musicien, célèbre dans le monde du reggae roots.
-    mastering: Song mastering
+    mastering: Mastering du son
     mastering-man: Sam John, <a href="http://www.precisemastering.com" target="_blank">Precise Mastering</a>, Ecosse
     picture: Illustration
     picture-man: <a href="http://exem.ch/" target="_blank">Exem</a>, Exem, dessinateur connu en Suisse romande depuis les années entre autres pour ses illustrations engagées.

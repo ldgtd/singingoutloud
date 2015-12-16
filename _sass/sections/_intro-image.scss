@@ -3,14 +3,15 @@
  * INTRO IMAGE
  */
 
-.intro-image_container {
-	article p  {
-		font-size: $font-size-large;
-	}
-}
-
 .intro-image {
 	height: 500px;
 
 	margin: -20px auto 40px auto;
+}
+
+
+.doctor {
+  position: absolute;
+  right: 80px;
+  bottom: 0;
 }

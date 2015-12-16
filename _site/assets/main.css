@@ -2698,11 +2698,6 @@ a {
   width: 150px;
   border-radius: 75px; }
 
-.doctor {
-  position: absolute;
-  right: 40px;
-  bottom: 0; }
-
 .flag, .flag--border {
   height: 5px; }
 
@@ -2720,12 +2715,14 @@ a {
  * Base
  * INTRO IMAGE
  */
-.intro-image_container article p {
-  font-size: 1.5rem; }
-
 .intro-image {
   height: 500px;
   margin: -20px auto 40px auto; }
+
+.doctor {
+  position: absolute;
+  right: 80px;
+  bottom: 0; }
 
 /**
  * Base
