@@ -2747,6 +2747,23 @@ button {
 .box {
   border: solid 1px #d2d2d2; }
 
+.quote {
+  font-size: 1.5em;
+  display: inline-block;
+  position: relative; }
+
+.quote::before, .quote::after {
+  content: ' " ';
+  font-size: 4em;
+  position: absolute;
+  top: -45px; }
+
+.quote::before {
+  left: -20px; }
+
+.quote::after {
+  right: 20px; }
+
 p {
   color: #333; }
 
