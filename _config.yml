@@ -1,8 +1,7 @@
-title: "title"
-description: "Desc"
 baseurl: "/singingoutloud"
 url: ""
 
 # Build settings
 markdown: kramdown
 exclude: [node_modules]
+languages: ["fr", "en"]

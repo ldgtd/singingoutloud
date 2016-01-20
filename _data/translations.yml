@@ -1,4 +1,7 @@
 en:
+  back: back
+  article-1:
+    title: test EN
   intro-images: |
     <p><span class="italic">Singing Out <span class="bold">Loud</span></span> is an association that aims, through music, at raising not only funds
     for a particular cause, but also awareness among listeners about issues that receive
@@ -69,9 +72,12 @@ en:
     title: Notabene
     notabene-1: |
       * 15% of the amount transferred for the purchase of the song are debited by
-      Bandcamp (the company hosting the songs) for the use of their services. The 75%
+      Bandcamp (the company hosting the songs) for the use of their services. The 85%
       received by the association are fully transferred to the Panzi Hospital.
 fr:
+  back: retour
+  article-1:
+    title: test EN
   intro-images: |
     <p><span class="italic">Singing Out <span class="bold">Loud</span></span> est une association qui vise, par le biais de la musique, non
     seulement à récolter des fonds pour des causes ciblées, mais aussi à sensibiliser les
@@ -142,5 +148,5 @@ fr:
     title: Notabene
     notabene-1: |
       * 15% de la somme versée pour l’achat de la chanson sont prélevés par Bandcamp
-      (la société hébergeant les morceaux) pour l’utilisation de leurs services. Les 75%
+      (la société hébergeant les morceaux) pour l’utilisation de leurs services. Les 85%
       reçus par l’association sont intégralement reversés à l’Hôpital Panzi.

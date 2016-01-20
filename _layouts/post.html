@@ -23,15 +23,11 @@
       <header>
         <h1>Singing Out <span class="bold">Loud</span></h1>
         <ul class="list">
-          <li><a href="#music">{{ t.music.title }}</a></li>
-          <li><a href="#project">{{ t.projet.title }}</a></li>
-          <li><a href="#articles">Articles</a></li>
-          <li><a href="#contact">{{ t.contact.title }}</a></li>
-          <li><a href="#project-actors">{{ t.actors.title }}</a></li>
+          <li><a href="/singingoutloud/">{{ t.back }}</a></li>
         </ul>
       </header>
 
-      <div class="mrgt">
+      <div class="mrgt" style="display:none">
         {% assign t = site.data[page.lang].translations %}
 
         <ul class="list">
