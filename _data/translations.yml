@@ -1,4 +1,5 @@
 en:
+  back: back
   article-1:
     title: test EN
   intro-images: |
@@ -74,6 +75,7 @@ en:
       Bandcamp (the company hosting the songs) for the use of their services. The 85%
       received by the association are fully transferred to the Panzi Hospital.
 fr:
+  back: retour
   article-1:
     title: test EN
   intro-images: |
